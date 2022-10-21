@@ -1,0 +1,7 @@
+[21-Oct-2022 08:35:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamz3581/public_html/evelyn/idb/admin/index.php:5) in /home/kamz3581/public_html/evelyn/idb/admin/index.php on line 37
+[21-Oct-2022 08:36:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kamz3581/public_html/evelyn/idb/admin/conn.php on line 8
+[21-Oct-2022 08:39:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamz3581/public_html/evelyn/idb/admin/index.php:5) in /home/kamz3581/public_html/evelyn/idb/admin/index.php on line 37
+[21-Oct-2022 08:39:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamz3581/public_html/evelyn/idb/admin/index.php:5) in /home/kamz3581/public_html/evelyn/idb/admin/index.php on line 37
+[21-Oct-2022 09:33:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kamz3581/public_html/evelyn/idb/admin/detail.php on line 6
+[21-Oct-2022 09:33:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kamz3581/public_html/evelyn/idb/admin/detail.php on line 6
+[21-Oct-2022 09:33:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kamz3581/public_html/evelyn/idb/admin/detail.php on line 6

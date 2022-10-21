@@ -1,0 +1,24 @@
+halo ges
+
+ kalo mau nyoba login, dalem database mu buat database namanya "idbproject" trus import idbproject.sql dalem dbmu itu
+ tiap file udah ada comment ngejelasin, tp kalo ga jelas, screenshot aja trus tanya aku di grup
+ file readme.md ga penting cuma buat github hahaha
+
+ fungsi folder:
+ - asset, css, img, js: printilan penting biar tampilan bener
+ - kuliah: file catetan kuliah kebawa HAHAHA ga penting, delete jg gpp
+ - scss: printilan kaya no. 1
+ - vendor: semua css, js, dkk tambahan
+
+TODO:
+- akun siswa
+- tiap beasiswa ada kode siswa, akun siswa = set session "kode siswa" trus query WHERE berdasarkan session kode siswa
+- tampilkan beasiswa yang dimiliki tiap siswa dalam 'daftar beasiswamu' tapi di main page select * from beasiswa
+
+- ganti isi body content berdasarkan url (mis. button 1= ?beasiswa, if GET = beasiswa, output tabel beasiswa; button 2= ?siswa if GET=siswa then output tabel siswa)
+
+alur update:
+index.php ngirim data id ke detail.php -> detail.php ngirim data ke submit.php yang jalanin query sql
+
+alur delete:
+index.php ngirim data id ke detail.php -> detail.php ngirim data ke delete.php yang jalanin query delete
